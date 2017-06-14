@@ -1,0 +1,21 @@
+# Format:courseid,lecture:s* (* is number from 1),lectureHour:double number,studentNum:int number,teacher:string
+courseid:comp6442,lecture:s1,lectureHour:1,studentNum:50,teacher:yinbo yang,major:cs
+courseid:comp6442,lecture:s2,lectureHour:1,studentNum:50,teacher:yinbo yang,major:cs
+courseid:comp6442,lecture:s3,lectureHour:1,studentNum:50,teacher:yinbo yang,major:cs
+courseid:comp2222,lecture:s1,lectureHour:1,studentNum:10,teacher:yinbo yang,major:cs
+courseid:comp2222,lecture:s2,lectureHour:1,studentNum:10,teacher:yinbo yang,major:cs
+courseid:comp6320,lecture:s1,lectureHour:1,studentNum:30,teacher:yuanxin wei,major:cs
+courseid:comp6320,lecture:s2,lectureHour:1,studentNum:30,teacher:yuanxin wei,major:cs
+courseid:engn8400,lecture:s1,lectureHour:1,studentNum:30,teacher:yuanxin wei,major:en
+courseid:engn8400,lecture:s2,lectureHour:1,studentNum:30,teacher:yuanxin wei,major:en
+courseid:engn2333,lecture:s1,lectureHour:1,studentNum:30,teacher:yinbo yang,major:en
+courseid:engn2333,lecture:s2,lectureHour:1,studentNum:30,teacher:yinbo yang,major:en
+courseid:engn6666,lecture:s1,lectureHour:1,studentNum:89,teacher:yinbo yang,major:en
+courseid:engn6666,lecture:s2,lectureHour:1,studentNum:89,teacher:yinbo yang,major:en
+courseid:engn1200,lecture:s1,lectureHour:1,studentNum:120,teacher:yinbo yang,major:en
+courseid:engn1200,lecture:s2,lectureHour:1,studentNum:120,teacher:yinbo yang,major:en
+courseid:busi1000,lecture:s1,lectureHour:1,studentNum:300,teacher:weinan zhang,major:acc
+courseid:busi1000,lecture:s2,lectureHour:1,studentNum:300,teacher:weinan zhang,major:acc
+courseid:busi1233,lecture:s1,lectureHour:1,studentNum:100,teacher:weinan zhang,major:acc
+courseid:busi1233,lecture:s2,lectureHour:1,studentNum:100,teacher:weinan zhang,major:acc
+

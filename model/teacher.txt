@@ -1,0 +1,4 @@
+# Format:Mon Tue Wed Thur Fri Sat Sun as the example below
+name:yinbo yang,course:comp6442,course:comp2222,course:engn6666,course:engn2333,course:engn1200,time:Mon 12:00-14:00,time:Mon 17:00-18:00,time:Tue,time:Wed,time:Thur,time:Friday 10:00-15:00
+name:yuanxin wei,course:engn8400,course:comp6320,time:Tue,time:Thur
+name:weinan zhang,course:busi1000,course:busi1233,time:Mon 13:00-16:00,time:Wed,time:Thur

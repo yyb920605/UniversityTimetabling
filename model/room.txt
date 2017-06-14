@@ -1,0 +1,12 @@
+# roomid:int,roomLocation:String,roomStudentLimit:int
+roomid:R1,roomLocation:1 march street csit,roomStudentLimit:505
+roomid:R2,roomLocation:14 london circ,roomStudentLimit:30
+roomid:R3,roomLocation:3 march street csit,roomStudentLimit:20
+roomid:R4,roomLocation:4 march street csit,roomStudentLimit:70
+roomid:R5,roomLocation:5 march street csit,roomStudentLimit:10
+roomid:R6,roomLocation:7 march street csit,roomStudentLimit:90
+roomid:R7,roomLocation:8 march street csit,roomStudentLimit:60
+roomid:R8,roomLocation:9 march street csit,roomStudentLimit:10
+
+
+
